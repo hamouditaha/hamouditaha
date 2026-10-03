@@ -108,16 +108,30 @@ flowchart LR
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🛒 <a href="https://github.com/hamouditaha/e-commerce_Microservices">E-commerce Microservices</a></h4>
-      E-commerce platform split into Spring Boot microservices with centralized configuration through Spring Cloud Config.
+      <h4>👥 <a href="https://github.com/hamouditaha/gestion-RH">HR Management: QR attendance &amp; payroll</a></h4>
+      Employees clock in with a <b>QR code</b>. The app tracks attendance, absences and late arrivals, <b>computes monthly salaries</b> and <b>e-mails payslips</b>. Scheduled jobs mark absences automatically.
       <br/><br/>
-      <code>Spring Boot</code> <code>Spring Cloud</code> <code>Docker Compose</code>
+      <code>Spring Boot</code> <code>Angular 17</code> <code>MySQL</code> <code>ZXing</code> <code>Thymeleaf</code>
     </td>
     <td width="50%" valign="top">
-      <h4>👥 <a href="https://github.com/hamouditaha/gestion-RH">HR Management</a></h4>
-      Full stack employee management application: Spring Boot REST API and Angular 17 front-end.
+      <h4>🛒 <a href="https://github.com/hamouditaha/e-commerce_Microservices">E-commerce Microservices</a></h4>
+      Microservices e-commerce platform, <i>in progress</i>: Docker Compose infrastructure (PostgreSQL, MongoDB, Kafka, Zipkin) and a product service with Flyway migrations.
       <br/><br/>
-      <code>Spring Boot</code> <code>Angular 17</code> <code>REST</code>
+      <code>Spring Cloud</code> <code>Kafka</code> <code>PostgreSQL</code> <code>Docker</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏨 <a href="https://github.com/hamouditaha/hotel-management">Hotel Management System</a></h4>
+      Desktop app for hotel reception: rooms, customers, check-in and check-out, staff and pick-up service.
+      <br/><br/>
+      <code>Java Swing</code> <code>JDBC</code> <code>MySQL</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📦 <a href="https://github.com/hamouditaha/ProductManager">Product Manager</a></h4>
+      Desktop product catalogue with CRUD operations and live statistics, built on the MVC pattern.
+      <br/><br/>
+      <code>JavaFX</code> <code>FXML</code> <code>Maven</code>
     </td>
   </tr>
   <tr>
