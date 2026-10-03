@@ -1,24 +1,60 @@
 <h1 align="center">Hi 👋, I'm Taha Hamoudi</h1>
-<h3 align="center">A passionate Java Full Stack Developer from Morocco</h3>
+<h3 align="center">Full Stack Developer · Java / Spring Boot · Angular · Microservices</h3>
 
-- 🔭 I’m currently working on [OptiManager](https://github.com/hamouditaha/microservices-OptiManager)
-
-- 🌱 I’m currently learning **Automation & Agentic AI**
-
-- 👯 I’m looking to collaborate on [Digital Banking System](https://github.com/hamouditaha/banks)
-
-- 🤝 I’m looking for help with [hotel management](https://github.com/hamouditaha/hotel-management)
-
-- 👨‍💻 All of my projects are available at [https://portfolio-tahahm.netlify.app/](https://portfolio-tahahm.netlify.app/)
-
-- 📫 How to reach me **tahahamoudi32@gmail.com**
-
-- 📄 Know about my experiences [2+](2+)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tahahamoudi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tahahamoudi" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://hamouditaha.github.io"><img src="https://img.shields.io/badge/Portfolio-hamouditaha.github.io-0A66C2?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/tahahamoudi"><img src="https://img.shields.io/badge/LinkedIn-tahahamoudi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:tahahamoudi32@gmail.com"><img src="https://img.shields.io/badge/Email-tahahamoudi32@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
+
+### 🧑‍💻 About me
+
+- 🎓 **Master's degree in Software Engineering, Big Data & Cloud Computing** (ENSET Mohammedia, 2026)
+- 💼 **3+ years** building business web applications (full stack, REST APIs, production maintenance)
+- 🏗️ I design **Spring Boot microservices**: API Gateway, Eureka, Config Server, Kafka, SAGA, OAuth2 / Keycloak
+- 🔁 Most recent work: migrating a **Laravel monolith to Spring Boot microservices** with an Angular front-end (OptiManager, HouXplore)
+- 🤖 Currently learning: **Generative AI in Java**, including Spring AI, LangChain4j, RAG and vector databases (pgvector, Qdrant)
+- 📍 Casablanca, Morocco · 🇲🇦 Arabic · 🇫🇷 French · 🇬🇧 English
+
+---
+
+### 🚀 Featured projects
+
+| Project | Description | Stack |
+|---|---|---|
+| 🏦 [**Banks: Fraud Detection System**](https://github.com/hamouditaha/banks) | Digital banking with real-time fraud detection, plus money transfers coordinated by an **orchestration-based SAGA** with compensations | Spring Boot · Kafka · Redis · Redisson · Eureka · Gateway · Docker |
+| 🛒 [**E-commerce Microservices**](https://github.com/hamouditaha/e-commerce_Microservices) | E-commerce platform split into microservices with a centralized configuration server | Spring Boot · Spring Cloud · Docker Compose |
+| 👥 [**HR Management**](https://github.com/hamouditaha/gestion-RH) | Full stack employee management application | Spring Boot · Angular 17 |
+| 🧩 [**Design Patterns**](https://github.com/hamouditaha/design-patterns-builder-singleton-prototype) | Builder, Singleton and Prototype patterns illustrated in Java | Java · Maven |
+
+---
+
+### 🛠️ Tech stack
+
+**Back-end**<br/>
+<img src="https://skillicons.dev/icons?i=java,spring,python,kafka,maven" />
+
+**Front-end**<br/>
+<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,bootstrap" />
+
+**Databases**<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+
+**DevOps & Tools**<br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,gitlab,git,linux,idea,vscode" />
+
+**Testing & quality:** JUnit 5 · Mockito · Testcontainers · SonarQube<br/>
+**Architecture:** REST · Microservices · Event-driven (Kafka) · SAGA · API Gateway · OAuth2 / JWT / Keycloak
+
+---
+
+### 📜 Certifications
+
+- Claude Code in Action · Anthropic
+- Python Essentials · Cisco Networking Academy
+
+---
+
+<p align="center"><i>💬 Open to Full Stack Java / Spring Boot opportunities. Feel free to reach out!</i></p>
