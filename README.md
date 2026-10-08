@@ -107,6 +107,14 @@ flowchart LR
 
 <table>
   <tr>
+    <td colspan="2" valign="top">
+      <h4>🧹 <a href="https://github.com/hamouditaha/chtabt.com">CHTABT.COM: home-cleaning booking website</a></h4>
+      Bilingual (Arabic RTL / French) website with <b>online booking</b> for a Moroccan home-cleaning company: JSON API for bookings, contact and newsletter, and an <b>admin dashboard</b> (requests, messages, subscribers with CSV export). Security built in: prepared statements, CSRF tokens, hashed passwords, login rate limiting.
+      <br/><br/>
+      <code>PHP 8</code> <code>MySQL</code> <code>Bootstrap</code> <code>JavaScript</code> <code>i18n</code>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h4>👥 <a href="https://github.com/hamouditaha/gestion-RH">HR Management: QR attendance &amp; payroll</a></h4>
       Employees clock in with a <b>QR code</b>. The app tracks attendance, absences and late arrivals, <b>computes monthly salaries</b> and <b>e-mails payslips</b>. Scheduled jobs mark absences automatically.
